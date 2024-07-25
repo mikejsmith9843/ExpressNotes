@@ -16,7 +16,13 @@ This application was designed to give users a place to store notes to help them 
 ## Live Screen Recording
 
 
+https://github.com/user-attachments/assets/c75e2774-cae6-476e-aa0d-390fb6081002
+
+
+
 ## Screenshots
+![Screenshot 2024-07-25 151336](https://github.com/user-attachments/assets/0863215b-1667-44f4-b9e6-1ec3df806491)
+![Screenshot 2024-07-25 151351](https://github.com/user-attachments/assets/d0bd4a53-7f2d-4729-a4f9-b6d45bac6038)
 
 
 ## Tech Used
